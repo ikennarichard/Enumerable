@@ -48,6 +48,7 @@ For more information on the importance of a professional README for your reposit
     - [Install](#install)
   - [Run tests](#run-tests)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -130,6 +131,16 @@ To run tests, run the following command:
 - GitHub: [@Basim-Aljazaeri](https://github.com/Shiroyaksha90)
 - Twitter: [@Basim_AlJazaeri](https://twitter.com/Basim_AlJazaeri)
 - LinkedIn: [Basim Aljazaeri](https://www.linkedin.com/in/basim-aljazaeri-603682201/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **[#sort? functionality method in enumerable]**
+- **[#minmax? functionality method in enumerable]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
